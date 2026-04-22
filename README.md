@@ -2,6 +2,11 @@
 
 Flutter 自定义车牌号键盘示例项目。
 
+## 文章地址[]
+
+## 展示图
+![展示图](assets/images/license_plate_keyboard_demo.gif)
+
 ## 功能说明
 
 - 支持普通车牌 `7` 位输入
